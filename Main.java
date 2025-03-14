@@ -30,9 +30,9 @@ public class Main {
                 }
             }
 
-            System.out.println("\nHoan thanh viec ghi noi dung vào file 'output.txt'");
+            System.out.println("\nHoan thanh viec ghi noi dung vao file 'output.txt'");
         } catch (IOException e) {
-            System.err.println("Loi khi tao file đau ra.");
+            System.err.println("Loi khi tao file dau ra.");
         }
     }
 }

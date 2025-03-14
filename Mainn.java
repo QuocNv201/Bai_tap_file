@@ -30,7 +30,7 @@ public class Mainn {
                 }
             }
 
-            System.out.println("Da ghep noi dung vao file_ket_qua_bigfilebigfile.txt");
+            System.out.println("Da ghep noi dung vao file_ket_qua_bigfile.txt");
 
         } catch (IOException | InterruptedException e) {
             e.printStackTrace();
